@@ -1,4 +1,4 @@
-## 미소야 공부해 👋
+## 미소야 쿠키런하자 👋
 
 <!--
 **AppleFinder/AppleFinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
