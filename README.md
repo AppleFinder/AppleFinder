@@ -1,4 +1,4 @@
-# :wave: Welcome to my GitHub profile !
+# :wave: Welcome!
 
 <p align="left">
 Hi, I am a MLOPS developer who combines business insights with CS expertise to drive synergy between technology and business. 
