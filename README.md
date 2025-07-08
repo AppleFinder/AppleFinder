@@ -1,7 +1,7 @@
 # :wave: Welcome to my GitHub profile !
 
 <p align="left">
-Hi, I am a MLOPS(LLMOPS) developer who combines business insights with CS expertise to drive synergy between technology and business. 
+Hi, I am a MLOPS developer who combines business insights with CS expertise to drive synergy between technology and business. 
   
 With full-stack development skills, I aim to lead digital transformation initiatives and drive innovation. 🌞
 </p>
